@@ -21,6 +21,13 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Clase_5-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/OduiURrllvM?si=IxUAFO-Fz4sS4lWb)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_6-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/UrD2S4vhq2w?si=LdXFG8NxNmMcV1zI)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_7-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/BdQSua__rh8?si=rtPFEx5nPwcGNvI9)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_8-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/c_-WZa7YOag?si=ZN_o8Fuva0QvwmG_)
+
+
 ---
 
 # SortingVisualizer
