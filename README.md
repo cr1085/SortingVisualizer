@@ -25,7 +25,7 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 # Aportes para la comunidad de java
 
-[![YouTube](https://img.shields.io/badge/YouTube-iNSTALAR_jDK_0-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/9xq-3P_6NIw)
+[![YouTube](https://img.shields.io/badge/YouTube-iNSTALAR_jDK-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/9xq-3P_6NIw)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Clase_0-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hCakWDuNlm4?si=86DW5EB6C0rSpvn9)
 
