@@ -1,6 +1,7 @@
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/header.png)
 
+
 ---
 
 # SortingVisualizer
@@ -65,3 +66,6 @@ Si te interesa vincular este u otros proyectos, contáctame por correo y con gus
 ---
 
 ¡Gracias por probar `SortingVisualizer`! 
+
+---
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headertwo.png)
