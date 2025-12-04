@@ -31,6 +31,12 @@
 
 ---
 
+# Reto java
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_9-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Sz9G8fIptlI?si=_I45b04qb_9k_ZYh)
+
+---
+
 # SortingVisualizer
 
 ¡Bienvenido a SortingVisualizer! 
