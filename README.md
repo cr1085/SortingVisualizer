@@ -55,6 +55,12 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 ---
 
+[![YouTube](https://img.shields.io/badge/YouTube-Optimización-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/u1ICjoZ3OEU)
+
+
+
+---
+
 [![YouTube](https://img.shields.io/badge/YouTube-Clase_BUBBLESORT-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Jac289Jfkhw)
 
 
